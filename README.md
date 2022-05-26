@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Website: http://moviestream-react.s3-website.eu-west-2.amazonaws.com/
+Live demo: http://moviestream-react.s3-website.eu-west-2.amazonaws.com/
 
 ![This is an image](https://github.com/Gonzalo6282/MovieStream/blob/main/moviestream.png)
 
